@@ -16,6 +16,7 @@ Go to above link for this file and look for **"download raw file"** button.
 ## 2. Cofactor and Determinant.xlsm  |  https://www.youtube.com/watch?v=pvKLtpD2zHI
 Learn how to calculate the cofactor and determinant of 2x2 and 3x3 matrices in this step-by-step tutorial video.
 We demonstrate the process with clear examples and provide an Excel file for offline practice. 
+
 Gain access to our Excel file for offline practice for automated calculations: https://github.com/ItisSoftInfo/Matrix-Operations/blob/main/2.%20Cofactor%20and%20Determinant.xlsm
 Go to above link for this file and look for **"download raw file"** button.
 
